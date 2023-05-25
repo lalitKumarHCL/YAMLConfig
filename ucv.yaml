@@ -1,14 +1,5 @@
-version: 1.0.0
+version: 7.0.0
 integrations:
-- type: ucv-ext-jira
-  configs:
-    name: Jira Integration
-    baseUrl: https://lalitku.atlassian.net
-    jiraProjects:
-    - PHYS
-    username: lk.iitkgp@gmail.com
-    tenantId: 5ade13625558f2c6688d15ce
-    password: ATATT3xFfGF0HAlCo2aOY-fPG8WCg3fFKp9JMDLfqkWbTx1aoI_LuxYaCd4sVGevYJUuIGZIQeJU_D91ulB7fgK_J1EEIyzlDBEafUWnfSbA6TXYoZWxS3hLx2qNmSLcEgT9-QyiHBfQKNdiT_Sbd723WVQOvWT_D1zzWZB7Svo8hOXWxbNMFV0=D9E55158
 - type: ucv-ext-launch
   configs:
     name: Launch Integration
