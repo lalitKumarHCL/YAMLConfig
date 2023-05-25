@@ -1,10 +1,9 @@
-version: 7.0.0
+version: 8.0.0
 integrations:
 - type: ucv-ext-launch
   configs:
     name: Launch Integration
     baseUrl: https://10.134.119.198:8443
-    tenantId: 5ade13625558f2c6688d15ce
     launchToken: fb885e38-e585-4f69-823a-a71adc9e6690
     loggingLevel: DEBUG
     deltaTime: '2023-05-15T18:30:00.000Z'
