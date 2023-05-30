@@ -2,7 +2,7 @@ version: 8.0.0
 integrations:
 - type: ucv-ext-launch
   attributes:
-    auto-config" : true
+    auto-config: true
   configs:
     name: Launch Integration
     baseUrl: https://10.134.119.198:8443
