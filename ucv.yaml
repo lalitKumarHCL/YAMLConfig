@@ -1,4 +1,4 @@
-version: 9.0.1
+version: 9.0.2
 integrations:
 - type: ucv-ext-launch
   attributes:
@@ -7,4 +7,4 @@ integrations:
     name: Launch Integration
     baseUrl: https://10.134.119.198:8443
     launchToken: fb885e38-e585-4f69-823a-a71adc9e6690
-    loggingLevel: INFO
+    loggingLevel: DEBUG
